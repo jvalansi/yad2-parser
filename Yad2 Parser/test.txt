@@ -1,0 +1,844 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head>
+<title>לוח יד שניה לוחות רכב מכירות נדלן</title>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-8-I">
+<meta name="robots" content="noindex,nofollow">
+<meta http-equiv="X-UA-Compatible" content="requiresActiveX=true">
+<meta name="Copyrights" content="Coral Tell Ltd.">
+<meta name="description" content="לוח יד2 – היד השניה - לוח יד שניה, לוחות רכב מכירת דירות רכבים מחשבים מצלמות רהיטים מכוניות תינוקות סלולרי סלולארי לוח נדלן בתים דירות נכסים חיות מחמד כלב חתול דגים חינם מבוגרים ליווי לימודים">
+<meta name="keywords" content="yad2, car, cars, sell, rent, home, buy, kolyom, colyom, kol-yom, israel, portal, internet, hebrew, sites, search, business, community, content, entertainment, computers, games, leisure, stocks, trade, shopping, health, sport, jobs, newsflash, sex">
+<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+<meta property="fb:app_id" content="167352651963">
+<link rel="stylesheet" href="yad2_files/style.css" type="text/css">
+		<link rel="stylesheet" href="yad2_files/style_002.css" type="text/css">
+
+        <!--[if IE 8]>
+			<link rel="stylesheet" type="text/css" href="/css/iefix.css" />
+			<link rel="stylesheet" type="text/css" href="/css/mador/iefix.css" />
+		<![endif]-->
+		
+		<!--[if IE 7]>
+			<link rel="stylesheet" type="text/css" href="/css/ie7fix.css" />
+			<link rel="stylesheet" type="text/css" href="/css/mador/ie7fix.css" />
+		<![endif]-->
+
+		<script async="" src="yad2_files/cbgapi.loaded_1"></script><script src="yad2_files/ga.js" async="" type="text/javascript"></script><script async="" src="yad2_files/cbgapi.loaded_0"></script><script type="text/javascript" src="yad2_files/scripts.js" charset="windows-1255"></script>
+		<script type="text/javascript">
+				var g1_img = new Image();
+		g1_img.src = "https://ssl.gstatic.com/s2/oz/images/stars/po/Publisher/sprite.png";
+		</script>
+		<script gapi_processed="true" type="text/javascript" src="yad2_files/plusone.js"></script>
+	   <script type="text/javascript" src="yad2_files/iscroll.js"></script>
+	
+
+
+<style>
+body{
+	font-family: 'Arial, David';
+	font-size:14px;
+	background-color: #F1F1F1;
+}
+.gc-bubbleDefault, .pls-container{ display: none !important; } 
+* { font-size: 12px; font-family: arial; }
+td.tabHead{}
+td.details_img{background:url(../imageInsidePage/details_image/map/details_open.gif) no-repeat right top; width:242px; height:34px; cursor:pointer;}
+
+td.tabHead div {margin-left:10px; margin-top:7px; text-align:left;}
+td.tabHead div a 		{cursor: pointer; font-weight: bold; color:#ffffff; text-decoration:none;}
+td.tabHead div a:hover	{text-decoration: underline;}
+</style>
+<script language="JavaScript">
+<!--
+
+	/*if(window.location==window.top.location)
+		window.top.location='http://www.yad2.co.il/Nadlan/tivrent.php';*/		
+
+	function openWindow(URL, winName, width, height){
+
+		if(height=='' || !height)
+		height=screen.height/2
+		height_factor = ((screen.height/100)*85)
+		if(height>=height_factor)
+			height=height_factor;
+
+
+		if(width=='' || !width)
+			width=screen.width/2
+		width_factor = ((screen.width/100)*95)
+		if(width>=width_factor)
+			width=width_factor;
+
+		var top=((screen.height-height)/2)-(screen.height/20)
+		var left=(screen.width - width) / 2 ;
+
+			win=window.open(URL, winName, 'toolbar=no,location=no,directories=no,status=0,menubar=no,scrollbars=yes,resizable=1,copyhistory=no,width='+width+',height='+height+',top='+top+',left='+left+'');
+			win.focus();
+	}
+
+	function GetMap(AreaID, URL){
+
+		setCookie(AreaID);
+		window.open(URL, 'MapPage');
+
+	}
+
+	function setCookie(value){
+
+		var the_cookie = "Cook_AreaID==" + escape(value) +' @ ';
+		the_date = new Date("September 12, 2099");
+		var Expiration_Date = "expires=" + the_date.toGMTString();
+		var the_path="";
+		var the_domain = ".yad2.co.il";
+
+		document.cookie = the_cookie + ";" + the_path + ";" + the_domain + ";" + the_path + ";" + Expiration_Date;
+
+	}
+	function right(e) {
+ 		if(navigator.appName == 'Netscape'){
+ 			if (e.which == 3){
+ 				//alert ("אין אפשרות להשתמש במקש זה.");
+ 				return false;
+ 			}
+ 		}else if(navigator.appName == 'Microsoft Internet Explorer'){
+ 			if (event.button==2){
+ 				//alert ("אין אפשרות להשתמש במקש זה.");
+ 				return false;
+ 			}
+ 		}
+ 	}
+ 
+ 	function context(){
+ 		//return false;//Net 6 and IE.
+ 	}
+
+ 	document.onmousedown=right;
+ 	document.oncontextmenu=context;
+try
+{
+	var top_plasma_id = window.parent.$("#contaner_plasma").find("div:first").attr('id');
+
+	top_plasma_id = top_plasma_id.split("-");
+	top_plasma_id = top_plasma_id[top_plasma_id.length-1];
+}
+catch (e)
+{
+}
+	
+
+//-->
+</script>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-708051-1']);
+  _gaq.push(['_setDomainName', 'yad2.co.il']);
+  _gaq.push(['_trackPageview']);
+   (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<link rel="stylesheet" type="text/css" href="yad2_files/bsoft.css">
+<script type="text/javascript" src="yad2_files/bsoft.js" charset="windows-1255"></script>
+	<script type="text/javascript" src="yad2_files/script.js"></script>
+		<script type="text/javascript" src="yad2_files/ads.js"></script>
+		<script type="text/javascript">
+	<!--
+
+	try
+	{
+		var topPlasmaId = top_plasma_id;
+	}
+	catch (e)
+	{
+		var topPlasmaId = '';
+	}
+
+	try{
+		window.Fusion.adServer = "fus.walla.co.il";
+		window.Fusion.parameters["targetingMode"] = "ExclusiveOR";
+	window.Fusion.parameters["AreaID"]= ["1","2"];
+window.Fusion.parameters["fromRooms"]= "2.0";
+window.Fusion.parameters["untilRooms"]= "2.0";
+window.Fusion.parameters["fromPrice"]= "4200";
+window.Fusion.parameters["untilPrice"]= "4200";
+window.Fusion.parameters["tivuch"]= "yes";
+window.Fusion.parameters["CityID"]= "1800";
+window.Fusion.parameters["Search_active"]= "yes";
+		window.Fusion.parameters["plasma_id"] = topPlasmaId;
+		window.Fusion.mediaZone = "yad2.real_estate.rent.main";
+		window.Fusion.layout = "Y26";
+
+		window.Fusion.loadAds();
+	}catch(e){
+		console.log("e="+e);
+	}
+	
+		//-->
+	</script><script type="text/javascript" src="yad2_files/Y26">
+</script>
+
+
+</head>
+<body leftmargin="0" topmargin="0" onselectstart="return false" dir="rtl" style="background-color: #F1F1F1; margin:0px;" marginheight="0" marginwidth="0">
+<div style="display:none" id="sbbhscc"></div><script type="text/javascript">sbbvscc=''; sbbgscc='; function genPid() {return String.fromCharCode(112)+String.fromCharCode(116); }';</script><div altutgv2="h45cdbe0991b95499fbda2132d5aff19bd21" id="sbbfrcc" style="position: absolute; top: -10px; left: 30px; font-size:1px"><img src="yad2_files/a_002.png"><img src="yad2_files/a.png"><img src="yad2_files/a_003.png"><iframe src="yad2_files/a.html" style="border: 0px none; height: 1px; width: 0px;" id="SBBCrossIframe" scrolling="NO"></iframe></div><script type="text/javascript"> function sbbgc( check_name ) { var start=document.cookie.indexOf(check_name+"="); var oVal=''; var len=start+check_name.length+1; if((!start)&&(document.cookie.substring(0,check_name.length)!=check_name)){ oVal=''; } else if(start==-1){ oVal=''; } else { var end=document.cookie.indexOf(';',len); if(end==-1)end=document.cookie.length; var oVal=document.cookie.substring(len,end); }; return oVal; } function addmg(inm,ext){ var primgobj = document.createElement ('IMG'); primgobj.src = "/sbbi/?sbbpg="+inm+(ext?"&"+ext:""); var sbbDiv = document.getElementById('sbbfrcc'); sbbDiv.appendChild (primgobj); }; function addprid(prid){ var oldVal=sbbgc("PRLST"); if((oldVal.indexOf(prid)==-1)&&(oldVal.split('/').length<5)){ if(oldVal!='')oldVal+='/'; document.cookie='PRLST='+oldVal+escape(prid)+'; path=/; domain=.yad2.co.il'; } } var sbbeccf = function () { this.sp3 = "jass"; this.sf1 = function (vd) { return sf2(vd)+32; }; var sf2 = function (avd) { return avd*12; }; this.sf4 = function (yavd) { return yavd+2; }; var strrp = function (str, key, value) { if (str.indexOf('&' + key + '=') > -1 || str.indexOf(key + '=') == 0) { var idx = str.indexOf('&' + key + '='); if (idx == -1) idx = str.indexOf(key + '='); var end = str.indexOf('&', idx + 1); var newstr; if (end != -1) newstr = str.substr(0, idx) + str.substr(end + (idx ? 0 : 1)) + '&' + key + '=' + value; else newstr = str.substr(0, idx) + '&' + key + '=' + value; return newstr; } else return str + '&' + key + '=' + value; }; var strgt = function(name, text) { if (typeof text != 'string') return ""; var nameEQ = name + "="; var ca = text.split(/[;&]/); for (var i = 0; i < ca.length; i++) { var c = ca[i]; while (c.charAt(0) == ' ') c = c.substring(1, c.length); if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length); } return ""; }; this.sfecds = { f:function(name, value) { try { if (window.openDatabase) { var database = window.openDatabase("sqlsbbec", "1.0", "sbbecce", 200000); if (!database) { return ""; } if (typeof(value) != "undefined") database.transaction(function(tx) { tx.executeSql("CREATE TABLE IF NOT EXISTS cache(" + "id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT, " + "name TEXT NOT NULL, " + "value TEXT NOT NULL, " + "UNIQUE (name)" + ")", [], function (tx, rs) { }, function (tx, err) { }); tx.executeSql("INSERT OR REPLACE INTO cache(name, value) VALUES(?, ?)", [name, value], function (tx, rs) { }, function (tx, err) { }) }); else { database.transaction(function(tx) { tx.executeSql("SELECT value FROM cache WHERE name=?", [name], function(tx, result1) { if (result1.rows.length >= 1) localStorage.setItem (name,result1.rows.item(0)['value']); }, function (tx, err) { }) }); } } } catch(e) { } return ""; }, name:"sbbrf" }; this.sfecw = { f:function(name, value) { var fv=""; try { if (typeof(value) != "undefined") window.name = strrp(window.name, name, value); else fv = strgt(name, window.name); } catch(e) { } return fv; }, name:"sbbrf" }; this.sfecud = { f:function(name, value) { var fv=""; try { var elm = document.getElementById('sbbfrcc'); elm.style.behavior = "url(#default#userData)"; if (typeof(value) != "undefined") { elm.setAttribute(name, value); elm.save(name); } else { elm.load(name); fv=elm.getAttribute(name); } } catch(e) { } return fv; }, name:"sbbrf" }; this.sfecgs = { sbbgh:function() { var domain = document.location.host; if (domain.indexOf('www.') == 0) domain = domain.replace('www.', ''); return domain; }, f:function(name, value) { var fv=""; if (window.globalStorage) { var host = this.sbbgh(); try { if (typeof(value) != "undefined") globalStorage[host][name] = value; else { fv=globalStorage[host][name]; if (typeof (fv.toString)!="undefined") fv=fv.toString(); } } catch(e) { } } return fv; }, name:"sbbrf" }; this.sfecls = { f:function(name, value) { var fv=""; try { if (window.localStorage) { if (typeof(value) != "undefined") localStorage.setItem(name, value); else { fv=localStorage.getItem(name); if (typeof (fv.toString)!="undefined") fv=fv.toString(); } } } catch (e) { } return fv; }, name:"sbbrf" }; this.sbbcv = function (invl) { try { var invalArr = invl.split("-"); if (invalArr.length>1) { if (invalArr[0]=="A"||invalArr[0]=="D") { invl=invalArr[1]; } else invl=""; } if (invl==null||typeof(invl)=="undefined"||invl=="falseImgUT"||invl=="undefined"||invl=="null"||invl!=encodeURI(invl)) invl=""; if (typeof(invl).toLowerCase()=="string") if (invl.length>20) if (invl.substr(0,2)!="h4") invl=""; } catch (ex) { invl=""; } return invl; }; this.sbbsv = function (fv) { for (var elm in this) { if (this[elm].name=="sbbrf") { this[elm].f("altutgv2",fv); } } document.cookie = "UTGv2="+fv+'; expires=Tue, 31 Dec 2030 00:00:00 UTC; path=/; domain=.yad2.co.il'; }; this.sbbgv = function() { var valArr=Array(); var currVal=""; for (var elm in this) { if (this[elm].name=="sbbrf") { currVal = this[elm].f("altutgv2"); currVal = this.sbbcv(currVal); if (currVal!="") valArr[currVal]=(typeof(valArr[currVal])!="undefined"?valArr[currVal]+1:1); } } var lb=0; var fv=""; for (var val in valArr) { if (valArr[val]>lb) { fv = val; lb=valArr[val] } } if (fv=="") fv=sbbgc("UTGv2"); fv = this.sbbcv(fv); if (fv!="") this.sbbsv (fv); else this.sbbsv("D-h42e7dce7226aa11a240c36a1261a58ccf50"); return fv; }; }; function m2vr(m1,m2) { var i=0; var rc=""; var est = "ghijklmnopqrstuvwyz"; var rnum; var rpl; var charm1 = m1.charAt(i); var charm2 = m2.charAt(i); while (charm1!=""||charm2!="") { rnum = Math.floor(Math.random() * est.length); rpl = est.substring(rnum,rnum+1); rc +=(charm1==""?rpl:charm1)+(charm2==""?rpl:charm2); i++; charm1 = m1.charAt(i); charm2 = m2.charAt(i); } return rc; } function sbbls(prid) { try { var eut = sbbgc("UTGv2"); sbbeccfi = new sbbeccf(); sbbgs=sbbeccfi.sbbgv(); if (eut!=sbbgs && sbbgs!="" && typeof(sbbfcr)=="undefined") { addmg('utMedia',"vii="+m2vr("fc6d2c7c2e63afc22972fc6e59cf82a0",sbbgs)); } var sbbiframeObj = document.createElement ('IFRAME'); var dfx=new Date(); sbbiframeObj.id = 'SBBCrossIframe'; sbbiframeObj.style.border='0px'; if (document.all) { sbbiframeObj.style.position='absolute'; sbbiframeObj.style.top='-1px'; sbbiframeObj.style.height='1px'; sbbiframeObj.style.width='28px'; } else { sbbiframeObj.style.height='1px'; sbbiframeObj.style.width='0px'; } sbbiframeObj.scrolling="NO"; sbbiframeObj.src = '/sbbi/?sbbpg=sbbShell&gprid='+prid+'&sbbgs='+sbbgs+'&ddl='+(Math.round(dfx.getTime()/1000)-1378973482)+''; var sbbDiv = document.getElementById('sbbfrcc'); sbbDiv.appendChild (sbbiframeObj); } catch (ex) { alert (ex.message); } } try{ y=unescape(sbbvscc.replace(/^<\!\-\-\s*|\s*\-\->$/g,'')); document.getElementById('sbbhscc').innerHTML=y; x=unescape(sbbgscc.replace(/^<\!\-\-\s*|\s*\-\->$/g,'')); } catch(e){ x='function genPid() {return "jser"; }'; } try { if (window.gprid==undefined) document.write('<'+'script type="text/javascri'+'pt">'+x+"var gprid=genPid(); addprid(gprid);  addmg('chctrlp2');addmg('chctrlp1');sbbls(gprid);<"+"/script>"); } catch (e) { addprid("dwer"); } </script><script type="text/javascript">; function genPid() {return String.fromCharCode(112)+String.fromCharCode(116); }var gprid=genPid(); addprid(gprid);  addmg('chctrlp2');addmg('chctrlp1');sbbls(gprid);</script>
+
+
+<table dir="rtl" cellpadding="0" cellspacing="0" align="center" bgcolor="#F1F1F1" border="0" width="710">
+	<tbody><tr>
+		<td valign="top" width="242">
+		<!-- start right column -->
+			<table cellpadding="0" cellspacing="0" align="right" border="0" width="242">
+				<!-- <tr>
+					<td><img src="http://images.yad2.co.il/Pic/site_images/yad2/imageInsidePage/details_image/right_02.gif" width="242" height="5" border=0 alt=""></td>
+				</tr> -->
+				<tbody><tr>
+					<td><img src="yad2_files/koteret_pratim.gif" alt="" border="0" height="34" width="242"></td>
+				</tr>
+				<tr>
+					<td><img src="yad2_files/right_04.gif" alt="" height="2" width="242"></td>
+				</tr>
+				<tr>
+					<td background="yad2_files/right_04.gif" bgcolor="#FFFFFF" height="90">
+						
+<script type="text/javascript">
+    function initMobileScroll(ele) {
+    var mobileScrollArea = document.getElementById(ele);
+
+    mobileScrollArea.addEventListener('touchstart', function(event){
+        touchstart (event);
+    });
+
+    mobileScrollArea.addEventListener('touchmove', function(event){
+        touchmove (event);
+    });
+
+    // let’s set the starting point when someone first touches
+    function touchstart (e) {
+        startY = e.touches[0].pageY;
+        startX = e.touches[0].pageX;
+    }
+
+    // calls repeatedly while the user’s finger is moving
+    function touchmove(e) {
+        var touches = e.touches[0];
+
+        // override the touch event’s normal functionality
+                e.preventDefault();
+
+        // y-axis
+        var touchMovedY = startY - touches.pageY;
+        startY = touches.pageY; // reset startY for the next call
+        mobileScrollArea.scrollTop = mobileScrollArea.scrollTop + touchMovedY;
+
+        // x-axis
+        var touchMovedX = startX - touches.pageX;
+        startX = touches.pageX; // reset startX for the next call
+        mobileScrollArea.scrollLeft = mobileScrollArea.scrollLeft + touchMovedX;
+    }   
+
+}
+$(document).ready(function() {
+   initMobileScroll('scroll_wrapperDetails');
+   initMobileScroll('scroll_wrapperMoreDetails');
+})
+</script>
+
+<div id="wrapperDetails">	
+
+<div id="scroll_wrapperDetails" style="width: 242pxpx; height:auto; overflow: auto;" align="center">
+		<table dir="rtl" cellpadding="1" cellspacing="0" border="0" width="98%">
+			<tbody><tr>
+				<td style="padding-right: 10px" width="65">סוג הנכס:</td>
+				<td colspan="3"><b>דירה להשכרה</b></td>
+			</tr>
+			
+						<tr>
+				<td style="padding-right: 10px" width="65">ניהול הנכס:</td>
+				<td colspan="3"><b>
+					תיווך				</b></td>
+			</tr>
+						
+						<tr>
+				<td style="padding-right: 10px" width="65">אזור השכרה:</td>
+				<td colspan="3"><b>תל אביב</b></td>
+			</tr>
+						
+			<tr><td style="padding-right: 10px" width="63">עיר/ישוב:</td><td colspan="3"><b>תל אביב יפו</b></td></tr><tr><td style="padding-right: 10px" width="63">שכונה:</td><td colspan="3"><b>הצפון הישן</b></td></tr><tr><td style="padding-right: 10px" width="63">כתובת:</td><td colspan="3"><b>הירקון&nbsp; &nbsp;<b>מס' בית:</b>&nbsp; 70</b></td></tr>			<tr>
+				<td style="padding-right: 10px" width="65">קומה:</td>
+				<td colspan="3"><b>קרקע				 מתוך 3				</b></td>
+			</tr>
+			
+			<tr>
+				<td style="padding-right: 10px" width="65">חדרים:</td>				    
+				<td width="20"><b>2</b></td>
+				<td style="padding-right: 10px" width="30">מרפסות: </td>
+				<td align="right" width="70"><b>&nbsp;1</b></td>
+			</tr>
+			<tr>
+				<td colspan="4" style="padding-right: 10px">מתאימה לשותפים:&nbsp;<b>לא</b></td>
+			</tr>
+						<tr>
+				<td style="padding-right: 10px" width="65">גודל במ"ר:</td>
+				<td colspan="3"><b>55</b></td>
+			</tr>
+		</tbody></table>
+		</div>
+</div>
+	
+					</td>
+				</tr>
+				<tr>
+					<td height="7"></td>
+				</tr>	
+				<tr>
+					<td><img src="yad2_files/right_08.gif" alt="" border="0" height="24" width="242"></td>
+				</tr>
+				<tr>
+					<td><img src="yad2_files/right_04.gif" alt="" height="2" width="242"></td>
+				</tr>
+				<tr>
+					<td background="yad2_files/right_04.gif" bgcolor="#FFFFFF" height="130" valign="top">
+						<div id="wrapper">	
+<div id="scroll_wrapperMoreDetails" style="width: 242; height:160px; overflow: auto;" align="center">
+		<table dir="rtl" cellpadding="1" cellspacing="0" border="0" width="98%">
+						<tbody><tr>
+				<td style="padding-right: 10px" width="70">מיזוג:</td>
+				<td style="padding-left: 10px;" width="72"><img src="yad2_files/vi.gif" alt="" border="0" height="13" width="14"></td>
+				<td width="70">סורגים:</td>
+				<td style="padding-right: 5px;" width="72"><img src="yad2_files/vi.gif" alt="" border="0" height="13" width="14"></td>
+			</tr>
+			<tr>
+				<td style="padding-right: 10px" width="70">חניה:</td>
+				<td style="padding-left: 10px;"><img src="yad2_files/vi.gif" alt="" border="0" height="13" width="14"></td>
+				<td width="60">מעלית:</td>
+				<td style="padding-right: 5px;"><img src="yad2_files/x.gif" alt="" border="0" height="13" width="14"></td>
+			</tr>
+			<tr>
+				<td style="padding-right: 10px" width="70">מרפסת:</td>
+				<td style="padding-left: 10px;" width="72"><img src="yad2_files/x.gif" alt="" border="0" height="13" width="14"></td>
+				<td width="200">מרפסת שמש:</td>
+				<td style="padding-right: 5px;" width="72"><img src="yad2_files/x.gif" alt="" border="0" height="13" width="14"></td>
+			</tr>
+			<tr>
+				<td style="padding-right: 10px" width="70">ממ"ד:</td>
+				<td style="padding-left: 10px;"><img src="yad2_files/vi.gif" alt="" border="0" height="13" width="14"></td>
+				<td width="60">מחסן:</td>
+				<td style="padding-right: 5px;"><img src="yad2_files/x.gif" alt="" border="0" height="13" width="14"></td>
+			</tr>
+			<tr>
+				<td style="padding-right: 10px" width="80">גישה לנכים:</td>
+				<td style="padding-left: 10px;"><img src="yad2_files/x.gif" alt="" border="0" height="13" width="14"></td>
+				<td width="80">משופצת:</td>
+				<td style="padding-right: 5px;"><img src="yad2_files/vi.gif" alt="" border="0" height="13" width="14"></td>
+			</tr><tr>
+				<td style="padding-right: 10px" width="70">חיות מחמד:</td>
+				<td style="padding-left: 10px;"><img src="yad2_files/vi.gif" alt="" border="0" height="13" width="14"></td>
+						
+						
+			</tr><tr>
+			<td colspan="2" style="padding-right: 10px" valign="top"><u>פירוט ריהוט:</u>&nbsp;כיריים,מזגן,שידות,מגירות,מיטה,שולחן עבודה,כורסאות וכו'</td>			</tr>
+						<tr> 
+				<td style="padding-right: 10px" nowrap="nowrap" width="80">תאריך כניסה:</td>
+				<td colspan="3"><b>מיידית</b></td>
+			</tr>
+						<tr>
+				<td colspan="4" style="padding-right: 10px">תשלומים בשנה:&nbsp;<b>12</b></td>
+			</tr>
+
+			<tr><td colspan="4" style="padding-right: 10px; padding-left: 10px;" height="40%" valign="top"><u>תוספות:</u>&nbsp;דירה מרווחת עם דוד שמש, חניה משותפת על בסיס מקום פנוי', השכר דירה כולל ארנונה וועד בית<br>נכס בבלעדיות משרד התיווך</td></tr>		</tbody></table>
+		</div></div>    <table dir="rtl" style="background-image: url('../imageInsidePage/details_image/price.gif'); background-position: center; background-repeat: no-repeat; width:100%; height:26px;" cellpadding="1" cellspacing="0" border="0" width="98%">
+    <tbody><tr>
+            <td style="padding-right: 10px" width="35">מחיר :</td>
+        <td colspan=""><b>4,200 ₪</b></td>
+		    </tr>
+    </tbody></table>    
+					
+					</td>
+				</tr>
+				<!-- <tr>
+					<td><img src="http://images.yad2.co.il/Pic/site_images/yad2/imageInsidePage/details_image/right_06.gif" width="242" height="4" alt=""></td>
+				</tr> -->
+				<tr>
+					<td height="5"></td>
+				</tr>	
+											
+				<tr>
+					<td style="padding-right:0px; padding-left:0px; background-color: #F1F1F1; background-image: url('http://images.yad2.co.il/Pic/site_images/yad2/imageInsidePage/details_image/right_textlink.gif'); background-position: center; background-repeat: no-repeat; width:242px; height:41px;">						
+						<script type="text/javascript"> window.Fusion.space("text_link"); </script><div id="FusSpace-text_link-adid-3541329052" style="display:none"></div><script>
+<!--
+var adURL_3541329052text_link={};
+adURL_3541329052text_link.clr=('blue'=='blue') ? 'blue' : 'black';
+adURL_3541329052text_link.dec=('underline'=='underline') ? 'underline' : 'none';
+adURL_3541329052text_link.txt='?רוצה וילה על הים במיליון'.substring(0,50);
+document.write('<div style="font-family:Arial;font-size:12px;font-weight:bold;text-align:center;"><a href="http://yad1.yad2.co.il/Project.php?ProjectID=1693 " target="_blank" style="text-decoration:'+adURL_3541329052text_link.dec+';color:'+adURL_3541329052text_link.clr+'" rel="nofollow" onclick="window.Fusion.countAdvertEvent(3541329052, \'click\'); return true;">'+adURL_3541329052text_link.txt+'</a></div>');
+if(""!="") adtTPT("");
+adtRegister("3541329052","text_link","","","");
+//-->
+</script><div style="font-family:Arial;font-size:12px;font-weight:bold;text-align:center;"><a href="http://yad1.yad2.co.il/Project.php?ProjectID=1693" target="_blank" style="text-decoration:underline;color:blue" rel="nofollow" onclick="window.Fusion.countAdvertEvent(3541329052, 'click'); return true;">?רוצה וילה על הים במיליון</a></div>
+					
+					</td>
+				</tr>			
+								
+			</tbody></table>
+		<!-- end right column -->
+		</td>
+		<td width="6"><img src="yad2_files/spacer.gif" alt="" border="0" height="1" width="6"></td>
+		<td valign="top" width="250">
+		<!-- start center column -->
+			<table cellpadding="0" cellspacing="0" align="center" border="0" width="254">
+				<!-- <tr>
+					<td><img src="http://images.yad2.co.il/Pic/site_images/yad2/imageInsidePage/details_image/center_09.gif" width="254" height="5" alt=""></td>
+				</tr> -->
+				<tbody><tr>
+					<td height="34" valign="bottom"><img src="yad2_files/center_17.jpg" alt="" height="31" width="254"></td>
+				</tr>
+				<tr>
+					<td><img src="yad2_files/center_18.gif" alt="" height="4" width="254"></td>
+				</tr>
+				<tr>
+					<td background="yad2_files/center_18.gif" bgcolor="#FFFFFF" height="60">
+					 
+
+<table dir="rtl" cellpadding="1" cellspacing="0" align="center" border="0" width="98%">
+ 			<tbody><tr>
+			<td id="p_img" colspan="2" style="padding-right: 10px; padding-top:0px; padding-bottom:0px;" height="32">
+				<link rel="stylesheet" href="yad2_files/sLightbox.css" type="text/css">
+
+<script type="text/javascript">
+<!--	
+	function getFrameResult(data, oid) {
+		if (!data || data == '0;0') {
+			$.sLightbox({
+				type: 'html',
+								fromIFrame: true,
+				content: '<iframe id="captch_frame" src="http://www.yad2.co.il/class/captcha/captcha.php?element=%23p_img'+($("#p_img_"+oid) && $("#p_img_"+oid).length > 0 ? '_'+oid : '')+'&OrderID='+oid+'&t='+Math.random()+'" style="width: 300px; height: 340px; border: 0px;" scrolling="no" frameborder="0" allowTransparency="true"></iframe>'
+			});
+		} else {
+			$.sLightbox.close();
+			if ($("#p_img_"+oid) && $("#p_img_"+oid).length > 0) {
+				$("#p_img_"+oid).html(data.replace(/1\;</, '<'));
+			} else {
+				$("#p_img").html(data.replace(/1\;</, '<'));
+			}
+		}
+		
+		
+		        try {
+		    var adIframeID = jQuery("iframe.ad_iframe").parents('div.ad_iframe').attr('id');
+        }
+        catch(e) {
+            var adIframeID = window.parent.jQuery("iframe.ad_iframe").parents('div.ad_iframe').attr('id');
+        }
+
+		if (adIframeID != undefined) {
+			closeProgressBar(adIframeID,true);
+		}
+		else if($("#tempLoader") !== undefined){
+			//$("#tempLoader").append('<iframe onload="jQuery(\'#tempLoader\').remove();" style="display: none;" class="phone_captcha_iframe" src="http://www.yad2.co.il/ajax/get_Phone_Img_Capture_frame.php?oid='+oid+'&id=&path=&AreaID=1&new"></iframe>');
+			$("#tempLoader").remove();
+		
+		}
+		
+		
+		
+	}
+
+	function showPhoneCaptcha(oid) {
+		        try {
+		    var adIframeID = jQuery("iframe.ad_iframe").parents('div.ad_iframe').attr('id');
+        }
+        catch(e) {
+            var adIframeID = window.parent.jQuery("iframe.ad_iframe").parents('div.ad_iframe').attr('id');
+        }
+		
+		if (adIframeID != undefined) {
+			showProgressBar(adIframeID,null,true);
+		}
+		else {
+						
+			var loaderWrap = jQuery('<div id="tempLoader" style="width:100%;height:100%;"></div>');
+			var overlay = jQuery('<div id="tempLoaderOverlay" style="width: 100%; height: 100%; background-color: #333333 !important; opacity: 0.6; position: fixed;top:0px;left:0px;z-index:9999"></div>');
+			var loader = jQuery('<img style="position: absolute;" src="http://images.yad2.co.il/Pic/yad2new/ajax-line-loader.gif" alt="" />');
+			
+			loaderWrap.append(overlay);
+			
+			jQuery("body").append(loaderWrap);
+			
+			overlay = jQuery("#tempLoaderOverlay");
+			
+			var overlayWidth = overlay.width();
+			var overlayHeight = overlay.height();
+			
+			var loaderTop = (overlayHeight/2) - (15/2);
+			var loaderLeft = (overlayWidth/2) - (128/2);
+			
+			loader.css('top', loaderTop+'px').css('left', loaderLeft+'px');		
+			loaderWrap.append(loader);
+			
+		}
+		
+	
+		if ($('iframe.phone_captcha_iframe').length > 0){
+						$('iframe.phone_captcha_iframe').attr('src', 'http://www.yad2.co.il/ajax/get_Phone_Img_Capture_frame.php?oid='+oid+'&id=p_img&path=../&AreaID=1&t='+Math.random());
+			
+		}else {
+						$("#toShowPhone").append('<iframe style="display: none;" class="phone_captcha_iframe" src="http://www.yad2.co.il/ajax/get_Phone_Img_Capture_frame.php?oid='+oid+'&id=&path=&AreaID=1&new"></iframe>');
+			
+		}
+	     
+	   
+		
+	}
+//-->
+</script>
+<table style="padding: 0px; border-collapse: collapse;" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td style="" valign="top" width="60">טלפון:</td>
+	   	<td id="toShowPhone" valign="top">
+			להצגת המספר <a onclick="showPhoneCaptcha(24030016);" style="cursor: pointer; font-weight: bold; color: #330099;text-decoration: underline;">לחץ כאן</a>
+		</td>
+	</tr>
+</tbody></table>			</td>
+		</tr>
+				<tr>
+			<td style="padding-right: 10px">שם המשרד:</td>
+			<td><b>דניאל נכסים</b></td>
+		</tr>
+		<tr><td style="padding-right: 10px">איש קשר:</td><td><b>דניאל</b></td></tr>	<tr>
+		<td style="padding-right: 10px">דוא"ל:</td>
+		<td><b><a onclick="openWindow('http://www.yad2.co.il/Nadlan/ContactByMail.php?CatID=2&amp;SubCatID=6&amp;NadlanID=491147', 'ContactByMail',  540, 475)" style="color: red; text-decoration: underline; cursor: pointer">לחץ כאן לפניה למפרסם</a></b></td>
+	</tr>
+
+					<tr>
+						<td id="KAMA_YELLOW" colspan="2" align="center" valign="middle">
+							<div style="color:#000;font-weight: bold; text-align:center;background: #fff url('/imageInsidePage/kama/reka.gif') no-repeat center;width:238px; height:16px;">
+								<a target="_blank" href="http://www.pro.yad2.co.il/vuckv" class="kama_link" onclick="stat( '../', 138, '', '' );">מחפשים חברת הובלה זולה?</a>
+							</div>
+						</td>
+					</tr></tbody></table>
+
+
+<script>
+	try{	
+		SetBezeqFreeCall('',{catid:2, subcatid:6});
+	}catch(err){
+		
+	}
+</script>
+					</td>
+				</tr>
+				<tr>
+					<td><img src="yad2_files/center_20.gif" alt="" height="6" width="254"></td>
+				</tr>
+				<tr>
+					<td><img src="yad2_files/koteret_tmunot.gif" alt="" border="0" height="35" width="254"></td>
+				</tr>
+				<tr>
+					<td><img src="yad2_files/center_04.gif" alt="" height="6" width="254"></td>
+				</tr>
+				<tr>
+					<td background="yad2_files/center_11.gif" bgcolor="#FFFFFF" height="152">
+						
+		<table valign="top" cellpadding="0" cellspacing="0" align="center" border="0">
+			<tbody><tr>
+				<td align="center">
+					<table style="background-color: #FFFFFF; width: 224px; height: 130px;">
+	
+					<tbody><tr>
+						<td align="center"><a href="javascript:%20void(0);" onclick='openWindow("ViewImage.php?CatID=2&amp;SubCatID=6&amp;NadlanID=491147&amp;AreaID=1", "ViewImage", 600, 700)' style="cursor: pointer"><img src="yad2_files/2_6_1_171939_20130624170619-m.jpg" !width="!height=" style="border: solid 1px #5D6C71;" alt="לחץ להגדלה" border="0"></a></td>
+					</tr>			
+					</tbody></table>
+				</td>
+			</tr>
+	
+			<tr>
+				<td align="center" height="23">
+				<table>
+					<tbody><tr>
+						<td><img src="yad2_files/icon_hagdala.gif" alt="" border="0" height="23" width="24"></td>
+						<td><a href="javascript:%20void(0);" onclick='openWindow("ViewImage.php?CatID=2&amp;SubCatID=6&amp;NadlanID=491147&amp;AreaID=1", "ViewImage", 600, 700)' style="font-size: 12px; font-family: Arial; font-weight: bold; color: #6B6B6B; text-decoration: underline">להגדלה ותמונות נוספות לחץ</a>
+						</td>
+					</tr>
+				</tbody></table>
+				</td>
+			</tr>
+		</tbody></table>					</td>
+				</tr>
+				<tr>
+					<td><img src="yad2_files/center_06.gif" alt="" height="6" width="254"></td>
+				</tr>
+							
+			<tr>
+				<td style="padding-top:0px;" height="32">
+					<table cellspacing="0" bgcolor="#F1F1F0" border="0" width="100%">
+						<tbody><tr>
+							<td align="center" height="32" valign="bottom" width="33%">
+															<a href="javascript:void(0);" onclick="openWindow('mapDetails.php?SubCatID=6&amp;NadlanID=491147', 'ViewMap', 785, 675); stat_g('../ajax/zommap_atlas_city_stat.php?ref=atlas&amp;city=JUZBJUVDKyVFMCVFMSVFOSVFMSslRTklRjQlRTU=');"><img src="yad2_files/innerdetails_2403_title3.jpg" alt="מפת תל אביב יפו רחוב  רחוב הירקון מס' בית 70" border="0"></a></td>
+														<td align="center" height="32" valign="bottom" width="33%"><a rel="nofollow" onclick="stat_g('../ajax/zommap_atlas_city_stat.php?ref=zoomap&amp;city=JUZBJUVDKyVFMCVFMSVFOSVFMSslRTklRjQlRTU=');" href="http://www.yad2.co.il/Nadlan/zoomap.php?bid=s&amp;city=%FA%EC+%E0%E1%E9%E1+%E9%F4%E5&amp;streetsText=%E4%E9%F8%F7%E5%EF&amp;buildText=70" target="_blank"><img src="yad2_files/innerdetails_2403_title2.jpg" alt="" border="0"></a></td>
+							<td align="center" height="32" valign="bottom" width="33%"><a onclick="stat( '../', 972, '', '' );" href="http://www.yad2.co.il/Nadlan/Neighbors/?city=%FA%EC%20%E0%E1%E9%E1%20%E9%F4%E5&amp;street=%E4%E9%F8%F7%E5%EF&amp;housenum=70" target="_blank"><img src="yad2_files/innerdetails_2403_title1.jpg" border="0"></a></td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+			<tr>
+				<td background="yad2_files/center_11.gif" height="85">
+					<table cellspacing="0" border="0" width="100%">
+						<tbody><tr>
+							<td align="center" width="33%">
+															<a href="javascript:void(0);" onclick="openWindow('mapDetails.php?SubCatID=6&amp;NadlanID=491147', 'ViewMap', 785, 675); stat_g('../ajax/zommap_atlas_city_stat.php?ref=atlas&amp;city=JUZBJUVDKyVFMCVFMSVFOSVFMSslRTklRjQlRTU=');"><img src="yad2_files/innerdetails_2403_img3.jpg" alt="" border="0"></a>
+														</td>
+							<td align="center" width="33%"><a rel="nofollow" onclick="stat_g('../ajax/zommap_atlas_city_stat.php?ref=zoomap&amp;city=JUZBJUVDKyVFMCVFMSVFOSVFMSslRTklRjQlRTU=');" href="http://www.yad2.co.il/Nadlan/zoomap.php?bid=b&amp;city=%FA%EC+%E0%E1%E9%E1+%E9%F4%E5&amp;streetsText=%E4%E9%F8%F7%E5%EF&amp;buildText=70" target="_blank"><img src="yad2_files/zoomap_img2.jpg" alt="" border="0"></a></td>
+							<td align="center" width="33%"><a onclick="stat( '../', 972, '', '' );" href="http://www.yad2.co.il/Nadlan/Neighbors/?city=%FA%EC%20%E0%E1%E9%E1%20%E9%F4%E5&amp;street=%E4%E9%F8%F7%E5%EF&amp;housenum=70" target="_blank"><img src="yad2_files/innerdetails_2403_img1.jpg" border="0"></a></td>
+						</tr>
+						<tr>
+							<td align="center" width="33%">
+															<a title="לצפייה במפת תל אביב יפו רחוב הירקון מס' בית 70" href="javascript:void(0);" onclick="openWindow('mapDetails.php?SubCatID=6&amp;NadlanID=491147', 'ViewMap', 785, 675); stat_g('../ajax/zommap_atlas_city_stat.php?ref=atlas&amp;city=JUZBJUVDKyVFMCVFMSVFOSVFMSslRTklRjQlRTU=');" style="font-size: 10px; color: #6B6B6B; text-decoration: underline; font-weight: normal;">לצפייה במפה<br>לחץ...</a>
+														</td>
+							<td align="center" width="33%"> <a rel="nofollow" onclick="stat_g('../ajax/zommap_atlas_city_stat.php?ref=zoomap&amp;city=JUZBJUVDKyVFMCVFMSVFOSVFMSslRTklRjQlRTU=');" href="http://www.yad2.co.il/Nadlan/zoomap.php?bid=b&amp;city=%FA%EC+%E0%E1%E9%E1+%E9%F4%E5&amp;streetsText=%E4%E9%F8%F7%E5%EF&amp;buildText=70" target="_blank" style="font-size:10px;color: #6B6B6B; text-decoration: underline; font-weight: normal;">לצפיה ב-<br><img src="yad2_files/innerdetails_2403_zoomap.jpg" alt="" border="0"></a></td>
+							<td align="center" width="33%"><a onclick="stat( '../', 972, '', '' );" href="http://www.yad2.co.il/Nadlan/Neighbors/?city=%FA%EC%20%E0%E1%E9%E1%20%E9%F4%E5&amp;street=%E4%E9%F8%F7%E5%EF&amp;housenum=70" target="_blank" style="font-size:10px;color: #6B6B6B; text-decoration: underline; font-weight: normal;">כל המידע על הנכס<br>לצפיה לחץ</a></td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+		</tbody></table>
+		<!-- end center column -->	
+		</td>
+		<td width="6"><img src="yad2_files/spacer.gif" alt="" border="0" height="1" width="6"></td>
+		<td align="left" valign="top" width="210">
+			<table cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td>
+										<!-- start left column -->
+					<!-- start left column -->
+<table cellpadding="0" cellspacing="0" align="center" border="0" width="207">
+	<tbody><tr><td id="left_spacer_1" height="12"><img src="yad2_files/spacer.gif" alt="" border="0" height="10" width="1"></td></tr>
+	<tr><td id="left_banner" align="center" height="150" width="207"><script type="text/javascript"> window.Fusion.space("tv_ad"); </script><div id="FusSpace-tv_ad-adid-3545468151" style="display:none"></div><script>
+<!--
+var adURL_3545468151tv_ad = adtCdn("http://x.walla.co.il:80/CA7BAE19/D3426D49.swf");
+
+var flurlBase_3545468151tv_ad=window.Fusion.getAdvertEventUrl(3545468151,'click')+"?url="+encodeURIComponent('http://yad1.yad2.co.il/Project.php?ProjectID=1336');
+var flurl_3545468151tv_ad="http:"+encodeURIComponent(flurlBase_3545468151tv_ad);
+
+document.write('<div id="Fusion_holder_3545468151tv_ad" style="height:150px;width:180px;margin-left:auto;margin-right:auto;"></div>');
+
+var so_3545468151tv_ad = new SWFObject_Fusion(adURL_3545468151tv_ad, "Fusionflash_3545468151tv_ad", "180", "150", "6", "");
+so_3545468151tv_ad.addParam("wmode","opaque");
+so_3545468151tv_ad.addParam("allowscriptaccess","always");
+so_3545468151tv_ad.addVariable("clickTAG",flurl_3545468151tv_ad);
+so_3545468151tv_ad.addVariable("clickTag",flurl_3545468151tv_ad);
+so_3545468151tv_ad.addVariable("clicktag",flurl_3545468151tv_ad);
+so_3545468151tv_ad.addVariable("TARGET","_blank");
+so_3545468151tv_ad.addVariable("adid","3545468151");
+so_3545468151tv_ad.write("Fusion_holder_3545468151tv_ad");
+
+if(""!="") adtTPT("");
+
+adtRegister("3545468151","tv_ad","","","","",flurl_3545468151tv_ad,"_blank");
+
+//-->
+</script><div id="Fusion_holder_3545468151tv_ad" style="height:150px;width:180px;margin-left:auto;margin-right:auto;"><embed type="application/x-shockwave-flash" src="yad2_files/D3426D49.swf" style="undefined" id="Fusionflash_3545468151tv_ad" name="Fusionflash_3545468151tv_ad" quality="high" wmode="opaque" allowscriptaccess="always" flashvars="clickTAG=http:%2F%2Ffus.walla.co.il%2Fevent%2Fkbdun%2Fyad2.real_estate.rent.main%2F3545468151%2Fclick%3Furl%3Dhttp%253A%252F%252Fyad1.yad2.co.il%252FProject.php%253FProjectID%253D1336&amp;clickTag=http:%2F%2Ffus.walla.co.il%2Fevent%2Fkbdun%2Fyad2.real_estate.rent.main%2F3545468151%2Fclick%3Furl%3Dhttp%253A%252F%252Fyad1.yad2.co.il%252FProject.php%253FProjectID%253D1336&amp;clicktag=http:%2F%2Ffus.walla.co.il%2Fevent%2Fkbdun%2Fyad2.real_estate.rent.main%2F3545468151%2Fclick%3Furl%3Dhttp%253A%252F%252Fyad1.yad2.co.il%252FProject.php%253FProjectID%253D1336&amp;TARGET=_blank&amp;adid=3545468151" height="150" width="180"></div> 
+</td></tr>	<tr><td id="left_spacer_2" height="5"><img src="yad2_files/spacer.gif" alt="" border="0" height="5" width="1"></td></tr>
+	
+	<tr style="height:6px;">
+		<td></td>
+	</tr>
+	
+	<tr>
+		<td style="padding-right:10px;">
+		<table cellpadding="0" cellspacing="0" width="165">
+					<tbody><tr>
+						<td align="right">
+							<a target="_blank" rel="nofollow" href="http://live.sekindo.com/live/liveClick.php?id=2267834&amp;subId=8515" style="font-size: 12px; text-decoration:underline; color: #000000;" alt="Sekindo">פרסם כאן</a>
+						</td>
+						
+						<td align="left">
+							
+								<img style="margin-left:6px;" src="yad2_files/clicky_small.png" alt="Clicky" border="0" height="20" width="44">
+							
+						</td>
+					</tr>
+					<tr>
+						<td colspan="2">
+						<iframe marginheight="0" marginwidth="0" src="yad2_files/liveView.html" frameborder="0" height="192" scrolling="no" width="209"></iframe>
+						</td>
+					</tr>
+				</tbody></table>		</td><td>
+	</td></tr>
+	
+	<tr style="height:6px;">
+		<td></td>
+	</tr>
+
+	<tr>
+		<td id="left_button_1" width="207">
+			<table cellpadding="0" cellspacing="0" border="0">
+					
+					<tbody><tr>
+						<td>
+							<script type="text/javascript"> window.Fusion.space("ad_button"); </script><div id="FusSpace-ad_button-adid-3354449874" style="display:none"></div><script>
+var adURL_3354449874ad_button = adtCdn("http://x.walla.co.il:80/C6BDD453/C7F1AD54.jpg");
+document.write('<a href="http://www.pro.yad2.co.il/vuckv" target="_blank" onclick="window.Fusion.countAdvertEvent(3354449874, \'click\'); return true;" rel="nofollow"><img src="'+adURL_3354449874ad_button+'" border="0" height="30" width="187" id="3354449874ad_button"></a>');
+if(""!="") adtTPT("");
+adtRegister("3354449874","ad_button","","","");
+</script><a href="http://www.pro.yad2.co.il/vuckv" target="_blank" onclick="window.Fusion.countAdvertEvent(3354449874, 'click'); return true;" rel="nofollow"><img src="yad2_files/C7F1AD54.jpg" id="3354449874ad_button" border="0" height="30" width="187"></a>
+
+						</td>
+					</tr>
+					
+					<tr>		
+						<td>
+							<script type="text/javascript"> window.Fusion.space("ad_button_2"); </script><div id="FusSpace-ad_button_2-adid-3354449902" style="display:none"></div><script>
+var adURL_3354449902ad_button_2 = adtCdn("http://x.walla.co.il:80/C6BDD453/C7F1AD67.jpg");
+document.write('<a href="http://www.yad2.co.il/Nadlan/kones.php" target="_blank" onclick="window.Fusion.countAdvertEvent(3354449902, \'click\'); return true;" rel="nofollow"><img src="'+adURL_3354449902ad_button_2+'" border="0" height="30" width="187" id="3354449902ad_button_2"></a>');
+if(""!="") adtTPT("");
+adtRegister("3354449902","ad_button_2","","","");
+</script><a href="http://www.yad2.co.il/Nadlan/kones.php" target="_blank" onclick="window.Fusion.countAdvertEvent(3354449902, 'click'); return true;" rel="nofollow"><img src="yad2_files/C7F1AD67.jpg" id="3354449902ad_button_2" border="0" height="30" width="187"></a>
+
+						</td>
+					</tr>
+					
+			</tbody></table>
+		</td>
+	</tr>
+
+</tbody></table>
+<!-- end left column -->
+					<!-- <table cellpadding="0" cellspacing="0" border="0">
+						<tr>
+							<td><a target="_blank" href=""><img src="" width="187" height="30" alt="" border="0"/></a></td>
+						</tr>
+					</table> -->
+					<!-- end left column -->
+										</td>
+				</tr>
+				<tr>
+					<td>
+					</td>
+				</tr>
+			</tbody></table>
+		
+		</td>
+	</tr>
+	
+	</tbody></table>
+
+	<table dir="rtl" cellpadding="0" cellspacing="0" align="center" bgcolor="#F1F1F1" border="0" width="714">
+	<tbody><tr>
+		<td style="background-image: url('http://images.yad2.co.il/Pic/site_images/yad2/imageInsidePage/details_image/kav_bottom.gif');background-position: center; background-repeat: repeat-x; padding-top: 0px; padding-bottom: 5px;" height="6"><img src="yad2_files/spacer.gif" alt="" border="0" height="1" width="1"></td>
+	</tr>
+	</tbody></table>
+
+	<!-- //////////////////////////////////////////////////////////////////////////////////////// -->
+<table dir="rtl" cellpadding="0" cellspacing="0" align="center" bgcolor="#F1F1F1" border="0" width="714">
+<tbody><tr>
+	<td style="background-image: url('http://images.yad2.co.il/Pic/site_images/yad2/imageInsidePage/comment_textarea/reka_white.gif'); background-position: center; background-repeat: no-repeat;padding-right: 8px" height="63" width="498">
+		<table !width="100%" cellpadding="0" cellspacing="0" border="0">
+			<tbody><tr>
+				<td align="center" width="183">
+                							<table cellpadding="0" cellspacing="0" border="0" width="100%">
+							<tbody><tr>
+								<td><img src="yad2_files/Print.jpg" alt="" onclick="openWindow('Print.php?CatID=2&amp;SubCatID=6&amp;NadlanID=491147&amp;Code=a5df8921c4f3d469fbfec84d1997ff72', 'Print', 700, 650)" style="cursor: hand; vertical-align:middle;" height="20" width="79"></td>
+                                                                <td><img src="yad2_files/Send.jpg" alt="" onclick="openWindow('../smsforms/send_cellular.php?CatID=2&amp;SubCatID=6&amp;msgID=491147', 'SendSms', 540, 382)" style="cursor: hand; vertical-align:middle;" height="20" width="67"> </td>
+                                                                <td><img src="yad2_files/SendFr.jpg" alt="" onclick="openWindow('Send2Friend.php?CatID=2&amp;SubCatID=6&amp;NadlanID=491147', 'Send2Friend', 540, 410)" style="cursor: pointer; vertical-align:middle;" height="20" width="70"></td>
+							</tr>
+							<tr>	
+											<td colspan="4" align="center">
+				<table style="border-collapse: collapse;" cellpadding="0" cellspacing="0" align="center">
+					<tbody><tr>
+						<td id="fs_like" style="padding-left: 5px;">
+							<iframe src="yad2_files/like.html" style="border:none; overflow:hidden; width:95px; height:21px;" allowtransparency="true" frameborder="0" scrolling="no"></iframe>
+						</td>
+						<td style="padding-left: 5px;"><a class="facebook" href="https://www.facebook.com/sharer.php?u=http://www.yad2.co.il/Nadlan/tivrent_info.php?NadlanID%3D491147%26t%3D1378973482" onclick="stat( '../', '107', '', '' );" target="_blank"><img src="yad2_files/ShatefFaceBook_new.jpg" border="0" height="23" width="66"></a></td>
+                        						<td style="padding-left: 5px;"><a class="twitter" href="http://twitter.com/share?original_referer=www.yad2.co.il&amp;url=http://www.yad2.co.il/Nadlan/tivrent_info.php?NadlanID=491147&amp;ref=twit" onclick="stat( '../', '108', '', '' );" target="_blank"><img src="yad2_files/twitter.jpg" border="0" height="22" width="22"></a></td>
+						<td style="padding-left: 5px;">
+							<div id="___plusone_0" style="text-indent: 0px; margin: 0px; padding: 0px; background: none repeat scroll 0% 0% transparent; border-style: none; float: none; line-height: normal; font-size: 1px; vertical-align: baseline; display: inline-block; width: 38px; height: 24px;"><iframe title="+1" data-gapiattached="true" src="yad2_files/fastbutton.html" name="I0_1378973482717" id="I0_1378973482717" vspace="0" tabindex="0" style="position: static; top: 0px; width: 38px; margin: 0px; border-style: none; left: 0px; visibility: visible; height: 24px;" marginwidth="0" marginheight="0" hspace="0" frameborder="0" scrolling="no" width="100%"></iframe></div>
+														<style>
+								.gc-bubbleDefault, .pls-container { position: absolute !important; top: 0px !important; left: -200px !important; }
+								.pls-tailtop { left: 205px !important; }
+							</style>
+						</td>
+					</tr>
+				</tbody></table>
+			</td>
+										</tr>
+						</tbody></table>    
+				</td>
+				<td width="25">&nbsp;</td>
+				<td style="background-image: url('http://images.yad2.co.il/Pic/site_images/yad2/imageInsidePage/comment_textarea/04_09.jpg');background-repeat: no-repeat; background-position: center; margin-right:55px; text-align: right; width:242px; height:56px;" valign="middle">
+					<div style="padding-right: 35px;"><div dir="rtl" id="innr_comment" onclick="show_textarea('../',491147,'2','6')" style="width:200px; height:50px; border: 0px solid black; text-align: right; overflow: hidden; line-height:16px; padding-right:5px;padding-top:1px;">כתבו הערה כאן</div>
+					<textarea dir="rtl" type="text" onblur="show_textarea('../',491147,'2','6')" id="note_textarea" style="display:none;border:0px;width:200px;height:48px;line-height:15px; font-size: 12px;font-family: arial, Helvetica, sans-serif;overflow: hidden;background-image: url('http://images.yad2.co.il/Pic/site_images/yad2/imageInsidePage/comment_textarea/04_09.gif');background-repeat: no-repeat;background-position: 0px -1px;" onkeyup="limit_numchars();"></textarea>
+					</div>
+					</td>
+				<!-- <td width="10">
+					<img src="http://images.yad2.co.il/Pic/site_images/yad2/imageInsidePage/comment_textarea/04_03.gif" width="10" height="63" alt=""></td> -->
+			</tr>
+		</tbody></table>
+	</td>
+	<!-- <td width="15"></td> -->
+	<td style="background-image: URL('http://images.yad2.co.il/Pic/site_images/yad2/imageInsidePage/details_image/reka1.gif'); background-position: center; background-repeat: no-repeat; width:217px; height:51px;" width="217">
+		<table cellpadding="0" cellspacing="0" align="center" border="0">
+			<tbody><tr>
+				<td width="5"></td>
+				<td style="padding-bottom: 0px; padding-right: 0px; color: #6B6B6B; font-weight: bold;" height="25" valign="bottom" width="27"><a href="javascript:void(0);" onclick="openWindow('FoundError.php?CatID=2&amp;SubCatID=6&amp;NadlanID=491147', 'FoundError', 540, 470)" style="color: #6B6B6B; font-weight: bold;"><img src="yad2_files/icon.jpg" alt="" border="0" height="24" width="27"></a></td>
+				<td style="padding-top: 7px; " align="center" height="25" valign="top" width="150"><b>מס' מודעה: <font style="font-size: 12px;">24030016</font></b></td>
+				<td width="5"></td>
+			</tr>
+			<tr>
+				<td colspan="4" align="center" valign="top" width="187"><a href="javascript:void(0);" onclick="openWindow('FoundError.php?CatID=2&amp;SubCatID=6&amp;NadlanID=491147', 'FoundError', 540, 470)" style="color: #6B6B6B; font-weight: bold;">דווח לנו במידה ומצאת טעות במודעה</a></td>
+			</tr>
+		</tbody></table>
+	</td>
+	<!-- <td width="28">&nbsp;</td> -->
+</tr>
+</tbody></table>
+<!-- //////////////////////////////////////////////////////////////////////////////////////// -->
+
+
+<div style="display: none;">
+
+<div style="display: none;">
+<!-- (c) 2013 Gemius SA / gemiusHeatMap / Yad2.co.il -->
+<script type="text/javascript">
+var ghmxy_align = 'center';
+var ghmxy_type = 'absolute';
+var ghmxy_identifier = 'bD3q_JBwty_BrMH8Xd2Ix8UG7KRZmuyFKgYP2ulD1wf.f7';
+var ghmxy_hitcollector = 'ghmil.hit.gemius.pl';
+</script>
+<script type="text/javascript" src="yad2_files/hmapxy.js"></script>
+</div>
+
+
+<div style="display: none;">
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	var google_conversion_id = 1071910561;
+	var google_conversion_label = "DEE3COL9wAMQoZ2Q_wM";
+	var google_custom_params = window.google_tag_params;
+	var google_remarketing_only = true;
+	/* ]]> */
+	</script>
+	<script type="text/javascript" src="yad2_files/conversion.js">
+	</script><iframe name="google_conversion_frame" src="yad2_files/a_002.html" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" frameborder="0" height="13" scrolling="no" width="300">&lt;img
+ height="1" width="1" border="0" 
+src="http://googleads.g.doubleclick.net/pagead/viewthroughconversion/1071910561/?frame=0&amp;random=1378973482516&amp;cv=7&amp;fst=1378973482516&amp;num=1&amp;fmt=1&amp;label=DEE3COL9wAMQoZ2Q_wM&amp;guid=ON&amp;u_h=768&amp;u_w=1366&amp;u_ah=744&amp;u_aw=1301&amp;u_cd=24&amp;u_his=14&amp;u_tz=180&amp;u_java=true&amp;u_nplug=7&amp;u_nmime=80&amp;ref=http%3A//www.yad2.co.il/Nadlan/rent.php%3FAreaID%3D47%26chkArea%255B%255D%3D48%26City%3D%25FA%25EC+%25E0%25E1%25E9%25E1+%25E9%25F4%25E5%26Neighborhood%3D%25E4%25F6%25F4%25E5%25EF+%25E4%25E9%25F9%25EF%26HomeTypeID%3D1%26fromRooms%3D1.5%26untilRooms%3D2.5%26fromPrice%3D1000%26untilPrice%3D4500%26PriceType%3D1%26FromFloor%3D%26ToFloor%3D%26EnterDate&amp;url=http%3A//www.yad2.co.il/Nadlan/rent.php%3FAreaID%3D47%26chkArea%255B%255D%3D48%26City%3D%25FA%25EC+%25E0%25E1%25E9%25E1+%25E9%25F4%25E5%26Neighborhood%3D%25E4%25F6%25F4%25E5%25EF+%25E4%25E9%25F9%25EF%26HomeTypeID%3D1%26fromRooms%3D1.5%26untilRooms%3D2.5%26fromPrice%3D1000%26untilPrice%3D4500%26PriceType%3D1%26FromFloor%3D%26ToFloor%3D%26EnterDate&amp;frm=1"
+ /&gt;</iframe>
+	<noscript>
+	<div style="display:inline;">
+	<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1071910561/?value=0&amp;label=DEE3COL9wAMQoZ2Q_wM&amp;guid=ON&amp;script=0"/>
+	</div>
+	</noscript>
+</div><script type="text/javascript">
+	try {
+        window.Fusion.space("popunder");
+    }
+    catch(e) {}
+</script>
+
+</div>
+
+
+
+
+<iframe style="width: 1px; height: 1px; position: absolute; top: -100px;" src="yad2_files/postmessageRelay.html" id="oauth2relay733962333" name="oauth2relay733962333"></iframe><script src="yad2_files/Y26.asc" type="text/javascript"></script></body></html>
